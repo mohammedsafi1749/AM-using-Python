@@ -1,7 +1,7 @@
 ## AM-using-Python
 Amplitude Modulation and Demodulation using NumPy and Matplotlib
 
-##Aim:
+## Aim:
 To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries. 
 
 ## Apparatus :
@@ -31,7 +31,7 @@ the message signal. The general form of an AM signal is:
          6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
          
 
-##Program:
+## Program:
 
     import numpy as np
     import matplotlib.pyplot as plt
@@ -60,5 +60,4 @@ the message signal. The general form of an AM signal is:
 ## Result:
 
 The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots.
-
 Thus AM is implemented using numPy and Matplotlib.
