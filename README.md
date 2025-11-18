@@ -1,4 +1,4 @@
-## AM-using-Python
+## EXP NO: 5 AM-using-Python
 Amplitude Modulation and Demodulation using NumPy and Matplotlib
 
 ## Aim:
